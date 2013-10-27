@@ -10,4 +10,6 @@
  *
  *= require_self
  *= require_tree .
+ %= require font-awesome
  */
+a.noul:hover { text-decoration:none !important }
