@@ -111,7 +111,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(http://media-cache-ec0.pinimg.com/236x/36/e0/ec/36e0ec5666d7bc612aaa8639100c2fe6.jpg) no-repeat center center fixed; 
+  background: url(http://startbootstrap.com/templates/img/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -159,7 +159,7 @@ i.service-icon:hover {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(http://media-cache-ec0.pinimg.com/736x/e9/c1/c2/e9c1c21288104c435261f9a73173a59f.jpg) no-repeat center center fixed; 
+  background: url(http://startbootstrap.com/templates/img/callout.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -200,6 +200,6 @@ footer {
 }
 
 .top-scroll {
-  margin-top: 50px;
+  
 }
 
