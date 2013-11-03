@@ -17,6 +17,14 @@
   </head>
 
   <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=341980092604595";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- Side Menu -->
     <a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="icon-reorder"></i></a>
@@ -177,8 +185,10 @@
               <a href="#top">
                 <i class="fa fa-arrow-circle-up icon-5x"></i>
               </a>
+            </div>  
             <hr>
             <p>&copy; INGEEKS 2013 by Ingi Kim</p>
+            <div class="fb-like" data-href="http://www.ingikim.com" data-colorscheme="light" data-layout="standard" data-action="like" data-show-faces="true" data-send="false"></div>
           </div>
         </div>
       </div>
