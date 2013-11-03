@@ -203,3 +203,16 @@ footer {
   margin-top: 50px;
 }
 
+/* Responsive */
+
+@media (max-width: 768px) {
+        
+  .header {
+        background: url(../img/bg.jpg) no-repeat center center scroll; 
+  }
+
+  .callout {
+        background: url(../img/callout.jpg) no-repeat center center scroll; 
+  }
+
+}
